@@ -1,6 +1,9 @@
-layout: page
-title: "Terraform"
-permalink: /Iac/Terraform
+---
+layout: default
+title:  "Terraform"
+date:   2024-12-19 15:23:55 +0000
+categories: IAC
+---
 
 # Terraform
 Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to define and manage cloud and on-premises resources using human-readable configuration files. Think of Terraform as a blueprint for your infrastructure, where you can specify what resources you need, and Terraform will create and manage them for you.
