@@ -21,8 +21,8 @@
 title: DevOps Dictionary
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the DevOps Dictionary.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/devops-dictionary" # the subpath of your site, e.g. /blog
+url: "https://jackwesleyroper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jackwesleyroper
 github_username: jackwesleyroper
 

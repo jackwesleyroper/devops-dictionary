@@ -2,7 +2,6 @@
 layout: default
 title:  "Terraform"
 date:   2024-12-19 15:23:55 +0000
-categories: IAC
 ---
 
 # Terraform
